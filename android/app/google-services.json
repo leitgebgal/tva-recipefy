@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039406573210",
+    "project_id": "tva-recipefy",
+    "storage_bucket": "tva-recipefy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039406573210:android:e1ab09cd135a3909126123",
+        "android_client_info": {
+          "package_name": "com.example.recipefy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDP80tKovfNQY7VWSNNIo_8-lGGMEurPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
